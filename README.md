@@ -346,7 +346,7 @@ During my internship period, I participated in multiple community-oriented activ
 - **Tree Plantation Drive** – Participated in a tree plantation drive in my local area, planting saplings and contributing to environmental improvement.
 
 <div align="center">
-<img src="planting.jpg" alt="Tree Plantation Drive" width="50%">
+<img src="https://github.com/Shivcodes91/LEAFSCAN-AI/blob/main/elderly.jpg" alt="Tree Plantation Drive" width="50%">
 </div>
 
 <br/>
