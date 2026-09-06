@@ -351,10 +351,10 @@ During my internship period, I participated in multiple community-oriented activ
 
 <br/>
 
-- **Helping Elder Citizens** – Assisted elderly individuals in my neighborhood with simple daily tasks and provided support where needed.
+- **Helping Elder Citizens and blood donation** – Assisted elderly individuals in my neighborhood with simple daily tasks and provided support where needed.
 
 <div align="center">
-<img src="elderly.jpg" alt="Helping Elder Citizens" width="50%">
+<img src="https://github.com/Shivcodes91/LEAFSCAN-AI/blob/main/planting%20tree_page-0001.jpg" alt="Helping Elder Citizens" width="50%">
 </div>
 
 ### **Impact / Contribution**
