@@ -99,7 +99,7 @@ An end-to-end AI-powered web application that detects plant diseases from leaf i
   <a href="https://plant-disease-detection-szzkcnsa8zunv5bveqxche.streamlit.app" target="_blank"><strong>→ View Live Application</strong></a>
 </p>
 <p>
-  <a href="#project-report"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Shivcodes91/LEAFSCAN-AI/blob/main/SURE%20Trust%20project%20document%20(3).docx"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
